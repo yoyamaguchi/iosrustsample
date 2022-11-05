@@ -1,0 +1,8 @@
+/target
+/Cargo.lock
+/Sources/IOSTestFFI.xcframework
+/IOSTestFFI.xcframework.zip
+/.idea
+/.swiftpm
+/.xcode
+/Sources/IOSTest/IOSTest.swift
